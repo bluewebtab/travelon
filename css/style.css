@@ -83,7 +83,8 @@ body {
 
 .logo {
   height: 3.25rem;
-  margin-left: 2rem; }
+  margin-left: 2rem;
+  margin-top: 1rem; }
 
 .search {
   flex: 0 0 40%;
